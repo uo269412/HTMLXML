@@ -1,0 +1,12 @@
+Nombre del archivo: prueba
+Autor: Javier Carrillo
+Última modificación: Javier Carrillo
+Fecha de creación: 2020-10-26T17:22:42Z
+Fecha de modificación: 2020-10-26T18:34:59Z
+---------------------
+Nombre del archivo: ejemplo
+Autor: Javier Carrillo González
+Última modificación: Javier Carrillo González
+Fecha de creación: 2022-09-29T17:01:09Z
+Fecha de modificación: 2022-09-29T17:01:23Z
+---------------------
