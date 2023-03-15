@@ -1,0 +1,8 @@
+/*001*/
+article {
+    column-count: 2;
+    column-width: 8rem;
+    column-gap: 12%;
+    column-rule-style: double;
+    column-rule-width: thick;
+}

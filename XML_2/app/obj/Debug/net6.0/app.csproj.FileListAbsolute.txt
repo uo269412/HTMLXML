@@ -1,0 +1,50 @@
+E:\P1.Recursos\nuevo\master\ejercicio 4\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\P1.Recursos\nuevo\master\ejercicio 4\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\obj\Debug\net6.0\app.AssemblyInfo.cs
+E:\P1.Recursos\nuevo\master\ejercicio 4\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\bin\Debug\net6.0\app.exe
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\bin\Debug\net6.0\app.deps.json
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\bin\Debug\net6.0\app.runtimeconfig.json
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\bin\Debug\net6.0\app.dll
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\bin\Debug\net6.0\app.pdb
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.dll
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\refint\app.dll
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.pdb
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+E:\P1.Recursos\nuevo\master\ejercicio 4\app\obj\Debug\net6.0\ref\app.dll
+E:\LEW\XML_1\app\bin\Debug\net6.0\app.exe
+E:\LEW\XML_1\app\bin\Debug\net6.0\app.deps.json
+E:\LEW\XML_1\app\bin\Debug\net6.0\app.runtimeconfig.json
+E:\LEW\XML_1\app\bin\Debug\net6.0\app.dll
+E:\LEW\XML_1\app\bin\Debug\net6.0\app.pdb
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.dll
+E:\LEW\XML_1\app\obj\Debug\net6.0\refint\app.dll
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.pdb
+E:\LEW\XML_1\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+E:\LEW\XML_1\app\obj\Debug\net6.0\ref\app.dll
+E:\LEW\XML_2\app\bin\Debug\net6.0\app.exe
+E:\LEW\XML_2\app\bin\Debug\net6.0\app.deps.json
+E:\LEW\XML_2\app\bin\Debug\net6.0\app.runtimeconfig.json
+E:\LEW\XML_2\app\bin\Debug\net6.0\app.dll
+E:\LEW\XML_2\app\bin\Debug\net6.0\app.pdb
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.dll
+E:\LEW\XML_2\app\obj\Debug\net6.0\refint\app.dll
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.pdb
+E:\LEW\XML_2\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+E:\LEW\XML_2\app\obj\Debug\net6.0\ref\app.dll

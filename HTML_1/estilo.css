@@ -1,0 +1,62 @@
+  /*001*/
+body {
+    font-family: "Optima", sans-serif;
+    padding:2%;
+    font-size:1vw;
+    background-color:white;
+    color:#003049;
+}
+/*001*/
+h1 {
+    color:#27187e;
+    border-radius: 1em;
+    text-transform: uppercase;
+    padding: 5%;
+    font-size: 400%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-color: #f1f2f6;
+    text-align: center;
+}
+/*001*/
+h2 {
+    color:#758bfd;
+    font-size: 150%;
+    text-transform: uppercase;
+    background-color:white;
+}
+/*001*/
+h3 {
+    color:#6a71a1;
+    text-transform: uppercase;
+    background-color:white;
+}
+/*001*/
+footer {
+    text-align: center;
+}
+/*001*/
+address {
+    text-align: center;
+}
+/*001*/
+nav {
+    display: block;
+    text-align: center;
+}
+/*002*/
+nav > a {
+    padding: 5%;
+    display: inline-block;
+    font-size: 125%;
+}
+/*011*/
+a:link{
+    color:rgb(14, 61, 119);
+    background-color:white;
+}
+/*011*/
+a:visited{
+  color:rgb(6, 49, 99);
+  background-color:white;
+}

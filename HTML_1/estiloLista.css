@@ -1,0 +1,17 @@
+/*001*/
+ul {
+    list-style-type: circle;
+    width: 30%;
+
+}
+/*001*/
+li {
+    padding: 1%;
+    font-size:125%;
+    font-weight: bold;
+}
+/*012*/
+ul li:hover {
+    background-color: #f1f2f6;
+    color:black;
+}

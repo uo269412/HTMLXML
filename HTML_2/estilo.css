@@ -1,0 +1,132 @@
+   /*001*/
+body {
+    font-family: "Optima", sans-serif;
+    padding:2%;
+    font-size:1em;
+    background-color:white;
+    color:#14213d;
+    column-count: 2;
+    text-align: justify;
+}
+/*001*/
+h1 {
+    color:#14213d;
+    text-transform: uppercase;
+    padding: 5%;
+    font-size: 400%;
+    text-align: center;
+    column-span:all;
+    background-color:white;
+}
+/*001*/
+h2 {
+    color:#fca311;
+    font-size: 150%;
+    text-transform: uppercase;
+    column-span:all;
+    text-align: center;
+    background-color:rgb(247, 244, 228);
+}
+/*001*/
+h3 {
+    color:#bc3908;
+    text-transform: uppercase;
+    text-align: center;
+    background-color:rgb(248, 238, 220);
+}
+/*001*/
+li {
+    text-align: center;
+}
+/*001*/
+ul {
+    list-style-type: circle;
+}
+/*001*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*011*/
+p:nth-child(1) {
+    column-span:all;
+}
+/*011*/
+p:nth-child(2) {
+    column-span:all;
+}
+/*001*/
+nav {
+    column-span:all;
+    color:#14213d;
+    background-color:rgb(247, 247, 247);
+    border-radius: 1em;
+}
+/*002*/
+nav > ul {
+    column-count:2;
+    column-gap:6em;
+}
+/*001*/
+article {
+    column-span:all;
+}
+/*001*/
+aside {
+    column-span:all;
+}
+/*001*/
+footer {
+    column-span:all;
+}
+/*001*/
+section {
+    padding: 2em;
+    margin: 2em;
+}
+/*002*/
+aside > ul {
+    column-count:10;
+    column-rule: dotted rgb(241, 139, 6);
+}
+/*002*/
+footer > ul {
+    column-count:3;
+    column-fill: balance;
+    column-rule: dotted rgb(241, 139, 6);
+}
+/*002*/
+article > ul {
+    column-count:4;
+    column-fill: balance;
+    column-rule: dotted rgb(241, 139, 6);
+}
+/*022*/
+section:nth-of-type(2) > p:first-of-type {
+    column-count:3;
+    column-gap:2em;
+    column-fill: balance;
+    column-rule: double rgb(116, 116, 116);
+}
+/*012*/
+section > p:nth-of-type(2) {
+    column-count:2;
+    column-gap:2em;
+    column-fill: balance;
+    column-rule: double rgb(116, 116, 116);
+}
+/*012*/
+section > p:nth-of-type(5),  p:nth-of-type(6) {
+    column-count:3;
+    column-gap:2em;
+    column-fill: balance;
+    column-rule: double rgb(116, 116, 116);
+}
+/*012*/
+section > p:nth-of-type(7){
+    column-count:2;
+    column-gap:2em;
+    column-fill: balance;
+    column-rule: double rgb(116, 116, 116);
+}

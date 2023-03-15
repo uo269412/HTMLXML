@@ -1,0 +1,25 @@
+/*001*/
+section {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 2vw;
+    grid-auto-rows: minmax(100px, auto);
+    padding:2%;
+}
+/*002*/
+section > img {
+    margin-left: auto;
+    margin-right: auto;
+}
+/*002*/
+section > h3 {
+    margin: auto;
+}
+/*002*/
+section > p {
+    margin: auto;
+}
+/*001*/
+audio  {
+    margin: auto;
+}
